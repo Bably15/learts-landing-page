@@ -87,10 +87,13 @@
     justify-content: space-between;
     margin-top: 10rem;
 }
+.offers__products--items {
+    padding: 2rem;
+}
 .offers__products--items > div {
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     padding: 1rem;
 }
 .offers__products--items img {
@@ -117,7 +120,8 @@
 .sale {
     display: flex;
     justify-content: space-around;
-    padding: 3rem;
+    padding: 5rem;
+    align-items: center;
 }
 
 .sale__spring {
