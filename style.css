@@ -93,6 +93,9 @@
     justify-content: space-around;
     padding: 1rem;
 }
+.offers__products--items img {
+    width: 100%;
+}
 .title__heading {
     font-family: "Rouge Script", cursive;
     font-size: 5rem;
